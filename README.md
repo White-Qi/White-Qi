@@ -1,7 +1,7 @@
 ## 👋 Hi there
 
 ### 🔍 About Me
-My name is BaiQi(白起).Master's degree.
+My name is BaiQi.Master's degree.
 
 ### 🧠 What I Do
 - Model optimization & deployment  

@@ -4,8 +4,7 @@
   <a href="https://github.com/White-Qi"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=330&lines=console.log(%22Hello+World!%22);I'm+BaiQi%2C+Have+a+nice+day!" alt="Typing SVG" /></a>
 
   <!-- python图片 -->
-  <a href="https://sm.ms/image/n2wPkGMSgY7eKE3" target="_blank">
-  <img src="https://imgur.com/a/pyhtontheme-UTPnUR3" width="400"></a>
+  <a href="https://sm.ms/image/n2wPkGMSgY7eKE3" target="_blank"><img src="https://s2.loli.net/2024/05/16/n2wPkGMSgY7eKE3.png" width="400" ></a>
 
   <!-- profile logo 个人资料徽标 -->
   <div>
@@ -32,15 +31,15 @@
 
 ### Languages and Tools
 
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
+![Python Badge](https://img.shields.io/badge/Python-E34F26?logo=python&logoColor=fff&style=flat)
+![C++ Badge](https://img.shields.io/badge/C++-1572B6?logo=c++&logoColor=fff&style=flat)
+![C Badge](https://img.shields.io/badge/C-F7DF1E?logo=C&logoColor=000&style=flat)
+![Markdown Badge](https://img.shields.io/badge/Markdown-61DAFB?logo=Markdown&logoColor=000&style=flat)
+![Git Badge](https://img.shields.io/badge/Git-4FC08D?logo=Git&logoColor=fff&style=flat)
 
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
-![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
-![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
+![HTML Badge](https://img.shields.io/badge/HTML-3178C6?logo=HTML&logoColor=fff&style=flat)
+![css Badge](https://img.shields.io/badge/css-393?logo=nodedotjs&logoColor=fff&style=flat)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-646CFF?logo=JavaScript&logoColor=fff&style=flat)
 
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)

@@ -46,6 +46,7 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff&style=flat)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=fff&style=flat)
+![Latex](https://img.shields.io/badge/Latex-F05032?logo=latex&logoColor=fff&style=flat)
 
 ### Development Tools & IDEs
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=22D96B&style=flat)

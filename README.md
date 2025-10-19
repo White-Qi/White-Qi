@@ -2,7 +2,8 @@
 
   <!-- 打字效果 --> 
   <a href="https://github.com/White-Qi"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=330&lines=console.log(%22Hello+World!%22);I'm+BaiQi%2C+Have+a+nice+day!" alt="Typing SVG" /></a> 
-  <!-- python图片 --> <a href="https://sm.ms/image/n2wPkGMSgY7eKE3" target="_blank"><img src="https://s2.loli.net/2024/05/16/n2wPkGMSgY7eKE3.png" width="400" ></a>
+  <!-- python图片 --> 
+  <img src="https://s2.loli.net/2024/05/16/n2wPkGMSgY7eKE3.png" width="400" >
 
   <!-- 个人资料徽标 -->
 

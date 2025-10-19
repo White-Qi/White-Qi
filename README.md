@@ -57,13 +57,6 @@
 ![Claude CLI](https://img.shields.io/badge/Claude%20CLI-111111?logo=anthropic&logoColor=fff&style=flat)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 
-### Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=Microsoft&logoColor=fff&style=flat)
-![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=fff&style=flat)
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
-![iOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white&style=flat)
-
 ### Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
